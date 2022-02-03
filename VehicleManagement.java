@@ -5,7 +5,7 @@ public class VehicleManagement {
         car1.getInfo();
 
         TwoWheeler bike1= new TwoWheeler();
-        bike1.setRegNo("MH20C5421").setModel("Kawasaki Ninja").setMileage(30).setPrice(7.8).setColor("Green");
+        bike1.setRegNo("MH20C5421").setModel("Kawasaki Ninja").setMileage(30).setColor("Green").setPrice(7.8);
         bike1.getInfo();
 
         Vehicle bike2= new TwoWheeler("MH20C5421","Duke",5,18);

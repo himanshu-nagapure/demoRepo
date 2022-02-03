@@ -17,9 +17,9 @@ public class Vehicle {
     {
         return model;
     }
-    public String setColor(String color){
+    public Vehicle setColor(String color){
         this.color += color + " ";
-        return this.color;
+        return this;
     }
     public Vehicle setModel(String model){
         this.model = model;  
