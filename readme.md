@@ -1,5 +1,7 @@
-1. Hello!. This is a practice for git and github
+1. Vehicle.java : Parent class
 
-2. This is some new change in file
+2. TwoWheeler.java : Class which inherit Vehicle class
 
-3. newBranch is created at this point
+3. FourWheeler.java : Class which inherit Vehicle class
+
+4. VehicleManagement.java : Class to get information on vehicles
