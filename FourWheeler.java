@@ -8,7 +8,7 @@ public class FourWheeler extends Vehicle{
 
     public void getInfo()
     {
-        System.out.println(noOfSeats + " wheeler " + getVehicleModel());
+        System.out.println(noOfSeats + " wheeler " + getVehicleModel()+" Details");
         super.getInfo();
     }
 
